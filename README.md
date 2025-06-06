@@ -15,3 +15,5 @@ function zLoad (
     opacity = (default = 0.5)       // Opacity of background
 )
 ```
+
+Exemple in index.html (<a href="https://delord-c.github.io/zLoad/">Demo</a>)
